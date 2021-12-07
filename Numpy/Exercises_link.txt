@@ -1,0 +1,3 @@
+https://www.w3resource.com/python-exercises/numpy/index.php
+
+https://www.geeksforgeeks.org/python-numpy-practice-exercises-questions-and-solutions/
